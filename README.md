@@ -22,3 +22,5 @@ h2load --h1 --base-uri=http://localhost:8889 --input-file=output-log --duration=
 ```
 
 Note: to get `h2load` command run `brew install nghttp2`.
+
+More info on h2load at https://nghttp2.org/documentation/h2load-howto.html
